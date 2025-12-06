@@ -10,6 +10,13 @@
 **CipherStream** is a secure, real-time messaging application designed with a "Zero-Knowledge" approach. It features a unique **Auto-Lock System** that ensures sensitive message history is never left exposed on the screen.
 
 Unlike standard chat apps, this system prioritizes privacy by enforcing **Hidden Passwords** (the sender never sees the key on screen) and **Ephemeral Visibility** (messages automatically re-encrypt themselves).
+## Screenshot 
+<img width="611" height="816" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/b782a365-4947-4de4-9a5b-6c829333d520" />
+<img width="626" height="826" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/4b65cb92-da62-43ee-bce5-41d2e0115d99" />
+<img width="620" height="878" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/2afbc8b0-0311-4c18-9791-21a53abf0dd8" />
+<img width="628" height="810" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/2f4bdd36-083e-48d4-b0b8-cde6891f9f3f" />
+<img width="645" height="831" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/dd65493b-98e5-424f-a44b-fd0a0b977a6b" />
+
 
 ## 🚀 Key Features
 
